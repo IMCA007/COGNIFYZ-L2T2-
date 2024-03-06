@@ -33,7 +33,7 @@ body{
 }
 
 .navbar-left{
-    background-color: rgb(224, 78, 243);
+    background-color: burlywood;
     height: 100vh;
     width: 200px;
     display: flex;
@@ -61,7 +61,7 @@ body{
 .content h1{
     display: flex;
     justify-content: center;
-    margin-top: 50px;
+    margin-top: 225px;
 }
 
 .content p{
